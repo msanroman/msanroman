@@ -7,10 +7,10 @@ My over 10-years of experience building software in both startup and agency envi
 
 I aim now to share and build those processes and skillsets on developers and teams through mentoring and leadership.
 
-- [My personal site](https://msanroman.io)
-- [@msanromanv on Twitter](https://twitter.com/msanromanv)
-- [@mike.sanroman on Instagram](https://instagram.com/mike.sanroman)
-- [mikesanroman on Twitch](https://twitch.tv/mikesanroman)
+→ [My personal site](https://msanroman.io)  
+↳ [@msanromanv on Twitter](https://twitter.com/msanromanv)  
+↳ [@mike.sanroman on Instagram](https://instagram.com/mike.sanroman)  
+↳ [mikesanroman on Twitch](https://twitch.tv/mikesanroman)  
 
 <!--
 **msanroman/msanroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
